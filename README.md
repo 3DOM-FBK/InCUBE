@@ -11,7 +11,7 @@ The diversity of the shared data enables multiple possible uses, investigations 
 <p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/overview.png"></p>
 
 ## Provided data
-* TLS (Leica RTC360) indivudual scans: 359 (<a href="xxxxx">download</a>), ca 800 mil points at 2 mm resolution;
+* TLS (Leica RTC360) indivudual scans: 359 (<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ep7AhOknoMdFubTQu4E4s8ABVAMNsavEFPl0Odzd-wIfCA">download</a>), ca 800 mil points at 2 mm resolution;
 * Panoramic images acquired by the scanner: 359 (<a href="xxxxx">download</a>);
 * Mobile mapping scans (Leica BLK2GO): 2 (<a href="xxxxx">download</a>);
 * Point cloud from aerial imagess (Leica BLK2GO): 2 (<a href="xxxxx">download</a>), ca 186 mil points are 1 mm resolution;
