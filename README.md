@@ -8,6 +8,7 @@ The diversity of the shared data enables multiple possible uses, investigations 
 - interoperability between different software
 - simulation of energy efficiency processes (BEM)
 
+
 #### Provided data: Images, depths, dense point clouds
 * Total number of images (and relative ground truth depths): 829 in the 3 datasets
 * Image size: 7952 x 5304 px
