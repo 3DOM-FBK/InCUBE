@@ -8,8 +8,8 @@ The diversity of the shared data enables multiple possible uses, investigations 
 - interoperability between different software
 - simulation of energy efficiency processes (BEM)
 <p>
-<img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/overview.png">
-<>p
+<center><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/overview.png"></center>
+<p>
 #### Provided data
 * TLS (Leica RTC360) indivudual scans: 359 (<a href="xxxxx">download</a>), ca 800 mil points at 2 mm resolution;
 * Panoramic images acquired by the scanner: 359 (<a href="xxxxx">download</a>);
@@ -19,7 +19,7 @@ The diversity of the shared data enables multiple possible uses, investigations 
 * BIM model of the entire building in icf and rvt formats (<a href="xxxxx">download</a>).
 
 <p>
-<img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/BIM.png">
+<center><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/BIM.png"></center>
 
 _________________________________________________________________________
 ## Related Paper
@@ -34,5 +34,5 @@ _________________________________________________________________________
 ### License
 The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 <p>
-<img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classification.png">
+<center><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classification.png"></center>
 
