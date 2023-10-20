@@ -7,10 +7,10 @@ The diversity of the shared data enables multiple possible uses, investigations 
 - BIM (and Historical Building Information Modelling - HBIM) generation
 - interoperability between different software
 - simulation of energy efficiency processes (BEM)
-<p>
-<center><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/overview.png"></center>
-<p>
-#### Provided data
+
+<p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/overview.png"></p>
+
+## Provided data
 * TLS (Leica RTC360) indivudual scans: 359 (<a href="xxxxx">download</a>), ca 800 mil points at 2 mm resolution;
 * Panoramic images acquired by the scanner: 359 (<a href="xxxxx">download</a>);
 * Mobile mapping scans (Leica BLK2GO): 2 (<a href="xxxxx">download</a>);
@@ -18,8 +18,7 @@ The diversity of the shared data enables multiple possible uses, investigations 
 * Final aligned and merged point cloud of the building: 388 mil points at 5 mm average resolution (<a href="xxxxx">download</a>)
 * BIM model of the entire building in icf and rvt formats (<a href="xxxxx">download</a>).
 
-<p>
-<center><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/BIM.png"></center>
+<p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/BIM.png"></p>
 
 _________________________________________________________________________
 ## Related Paper
@@ -33,6 +32,6 @@ If you use this dataset for your research, please cite this repository and the r
 _________________________________________________________________________
 ### License
 The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-<p>
-<center><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classification.png"></center>
+
+<p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classification.png"></p>
 
