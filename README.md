@@ -33,5 +33,5 @@ _________________________________________________________________________
 ### License
 The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<p align="center" width="471px"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classification.jpg"></p>
+<p align="center" width="471px"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classification_v1.png"></p>
 
