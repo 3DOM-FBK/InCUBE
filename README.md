@@ -12,11 +12,11 @@ The diversity of the shared data enables multiple possible uses, investigations 
 
 ## Provided data
 * TLS (Leica RTC360) indivudual scans: 359 (<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Ep7AhOknoMdFubTQu4E4s8ABVAMNsavEFPl0Odzd-wIfCA">download</a>), ca 800 mil points at 2 mm resolution;
-* Panoramic images acquired by the scanner: 359 (<a href="xxxxx">download</a>);
-* Mobile mapping scans (Leica BLK2GO): 2 (<a href="xxxxx">download</a>);
-* Point cloud from aerial imagess (Leica BLK2GO): 2 (<a href="xxxxx">download</a>), ca 186 mil points are 1 mm resolution;
-* Final aligned and merged point cloud of the building: 388 mil points at 5 mm average resolution (<a href="xxxxx">download</a>)
-* BIM model of the entire building in icf and rvt formats (<a href="xxxxx">download</a>).
+* Panoramic images acquired by the scanner: 359 (<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Evi9Km0vHTZJpWOZhMjWsnwBSLx8UzQeR3_NYGdjv40gDg">download</a>);
+* Mobile mapping scans (Leica BLK2GO): 2 (<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/Eoqkk3ov9tZPgxJ4LXt5kY0BTX__2v6H5LUmlbYDZ4G-6Q">download</a>);
+* Point cloud from aerial images (Leica BLK2GO): 2 (<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/ErB81e3H9RxDtJRn_ROeB74BM-6nEi54wyTtyXpJjSLkKw">download</a>), ca 186 mil points are 1 mm resolution;
+* Final aligned and merged point cloud of the building: 388 mil points at 5 mm average resolution (<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EnEkFwv00z1Gk8u98hOcgrIBbqpUK4mPBVNncapfa6vFYQ?e=CoRWVB">download</a>)
+* BIM model of the entire building in icf and rvt formats (<a href="https://fbk.sharepoint.com/:f:/s/BENCHMARKS/EisrLk3SxzNMrLgiEJu3LDsBz2kukBv5RViJuTGRHBFbLw">download</a>).
 
 <p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/BIM.png"></p>
 
