@@ -9,30 +9,25 @@ The diversity of the shared data enables multiple possible uses, investigations 
 - simulation of energy efficiency processes (BEM)
 
 
-#### Provided data: Images, depths, dense point clouds
-* Total number of images (and relative ground truth depths): 829 in the 3 datasets
-* Image size: 7952 x 5304 px
-* Provided Ground Truth depth size: 1989 × 1320 px (1/4 resized / downsampled)
-* Camera poses (X0, Y0, Z0, omega [deg], phi[deg], kappa[deg]) and interior parameters (c[px], x0[px], y0[px]): provided
-* LiDAR point clouds: provided
-* Photogrammetric point cloud (MVS): provided
-
-|  Dataset | Strips  |  # images |  GSD [cm] | link |
-|---|---|---|---|---|
-|  1 | 8  |  224 |  1.7 | <a href="https://eostore.itc.utwente.nl:5001/sharing/1gJRLdQ71">download</a>|
-|  2 |  8 | 328  |  1.8|  <a href="https://eostore.itc.utwente.nl:5001/sharing/c4LlTkVjT">download</a>|
-| 3  |  8 | 277  |  1.9|  <a href="https://eostore.itc.utwente.nl:5001/sharing/r4o1tdCNv">download</a>|
+#### Provided data
+* TLS (Leica RTC360) indivudual scans: 359 (<a href="xxxxx">download</a>), ca 800 mil points at 2 mm resolution;
+* Panoramic images acquired by the scanner: 359 (<a href="xxxxx">download</a>);
+* Mobile mapping scans (Leica BLK2GO): 2 (<a href="xxxxx">download</a>);
+* Point cloud from aerial imagess (Leica BLK2GO): 2 (<a href="xxxxx">download</a>), ca 186 mil points are 1 mm resolution;
+* Final aligned and merged point cloud of the building: 388 mil points at 5 mm average resolution (<a href="xxxxx">download</a>)
+* BIM model of the entire building in icf and rvt formats (<a href="xxxxx">download</a>).
 
 <p>
-<img src="https://lh6.googleusercontent.com/Ex4Z3nDL8AbA3cDvsPW6d4X4nqWFk32JjZs5pIn2mmmFspMIGTKnhvAK1Nt_7OXJrcd5Ye_WJLETb1HksNTU5vS9DJ2ovDlost4QOunniYQPEGIjIirULRDkJAwoGFSe=w1280">
+<img src="">
 
-## Related Papers
-- Gabr
+_________________________________________________________________________
+## Related Paper
+O. Roman, E. M. Farella, S. Rigon, F. Remondino, S. Ricciuti, and D. Viesi, 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/175/2023/" target=page>FROM 3D SURVEYING DATA TO BIM TO BEM: THE INCUBE DATASET</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 175–182.
 
 _________________________________________________________________________
 ### Credits
-This dataset is publicly available for research purposes.
-If you use this dataset for your research, please cite the ISPRS Scientific Initiative USEGEO - <a href="https://usegeo.fbk.eu" target=page>https://usegeo.fbk.eu</a>
+This dataset is publicly available for research purposes. The dataset was created within the activites of the EU InCUBE project (https://incubeproject.eu/) funded by the European Union under the grant agreement no. 101069610.
+If you use this dataset for your research, please cite this repository and the related paper.
 
 _________________________________________________________________________
 ### License
