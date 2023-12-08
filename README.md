@@ -26,7 +26,7 @@ O. Roman, E. M. Farella, S. Rigon, F. Remondino, S. Ricciuti, and D. Viesi, 2023
 
 _________________________________________________________________________
 ### InCUBE project
-InCUBE (https://incubeproject.eu/) envisions to unlock the EU renovation wave through cutting-edge standardised and integrated processes based on industrialisation, innovative renewable energy technologies, digitalisation, and new market entrants. All while accounting for social inclusion, gender mainstreaming and upskilling of current and protentional workforce. The solutions emerging from InCUBE will be validated in 3 large-scale demo sites: Zaragoza (Spain), Trento (Italy) and Groningen (Netherlands). The project is funded by the European Union under grant agreement no. 101069610.
+InCUBE (https://incubeproject.eu/) envisions to unlock the EU renovation wave through cutting-edge standardised and integrated processes based on industrialisation, innovative renewable energy technologies, digitalisation, and new market entrants. All while accounting for social inclusion, gender mainstreaming and upskilling of current and protentional workforce. The solutions emerging from InCUBE will be validated in 3 large-scale demo sites: Zaragoza (Spain), Trento (Italy) and Groningen (Netherlands). 
 <p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/logo.png"></p>
 
 _________________________________________________________________________
