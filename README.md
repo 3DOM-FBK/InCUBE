@@ -25,6 +25,11 @@ _________________________________________________________________________
 O. Roman, E. M. Farella, S. Rigon, F. Remondino, S. Ricciuti, and D. Viesi, 2023: <a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/175/2023/" target=page>FROM 3D SURVEYING DATA TO BIM TO BEM: THE INCUBE DATASET</a>. Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 175–182.
 
 _________________________________________________________________________
+### InCUBE project
+InCUBE (https://incubeproject.eu/) envisions to unlock the EU renovation wave through cutting-edge standardised and integrated processes based on industrialisation, innovative renewable energy technologies, digitalisation, and new market entrants. All while accounting for social inclusion, gender mainstreaming and upskilling of current and protentional workforce. The solutions emerging from InCUBE will be validated in 3 large-scale demo sites: Zaragoza (Spain), Trento (Italy) and Groningen (Netherlands). The project is funded by the European Union under grant agreement no. 101069610.
+<p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/logo.png"></p>
+
+_________________________________________________________________________
 ### Credits
 This dataset is publicly available for research purposes. The dataset was created within the activites of the EU InCUBE project (https://incubeproject.eu/) funded by the European Union under the grant agreement no. 101069610.
 If you use this dataset for your research, please cite this repository and the related paper.
