@@ -40,3 +40,9 @@ The data provided here is licensed under the [Creative Commons Attribution-NonCo
 
 <p align="center" width="471px"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classification.jpg"></p>
 
+_________________________________________________________________________
+## Changelog 
+* [15 Oct, 2023] Uploaded all datasets
+* [16 Oct, 2023] Text and links fixing
+* [25 Oct, 2023] Link to papers added
+
