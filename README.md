@@ -38,7 +38,7 @@ _________________________________________________________________________
 ### License
 The data provided here is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<p align="center" height="250px"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classif.png"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/bem.png"></p>
+<p align="center"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/classif.png" height="250"><img src="https://github.com/3DOM-FBK/InCUBE/blob/master/images/bem.png" height="250"></p>
 
 _________________________________________________________________________
 ## Changelog 
